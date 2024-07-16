@@ -31,17 +31,25 @@ Or just run the Main.class by the following commands
 ## Screenshot
 
 Input inteface
+
 ![Input](https://github.com/EthicalAniruddha/Sort-Algorithm-Visualiser/blob/0c2c4f72b3a6a804d5d86a8f61a8a2cbdcfd168e/Pic/Input.png)
 
 
 Bars Pic.
+
 ![Bar](https://github.com/EthicalAniruddha/Sort-Algorithm-Visualiser/blob/0c2c4f72b3a6a804d5d86a8f61a8a2cbdcfd168e/Pic/Bars.png)
 
+
 Reset Button
-![Reset](https://github.com/EthicalAniruddha/Sort-Algorithm-Visualiser/blob/0c2c4f72b3a6a804d5d86a8f61a8a2cbdcfd168e/Pic/Video/reset.mp4)
+
+https://github.com/user-attachments/assets/400c2293-86fd-401c-93d2-595696973246
+
 
 Bubble Sort
-![Bubble](https://github.com/EthicalAniruddha/Sort-Algorithm-Visualiser/blob/0c2c4f72b3a6a804d5d86a8f61a8a2cbdcfd168e/Pic/Video/bubble.mp4)
+
+https://github.com/user-attachments/assets/81e69c1b-fd00-44ed-8f8b-fc204baee36a
+
 
 Selection Sort
-![Selection](https://github.com/EthicalAniruddha/Sort-Algorithm-Visualiser/blob/0c2c4f72b3a6a804d5d86a8f61a8a2cbdcfd168e/Pic/Video/selection.mp4)
+
+https://github.com/user-attachments/assets/283feefd-73ce-45cd-868e-660bbd1cb4c4
